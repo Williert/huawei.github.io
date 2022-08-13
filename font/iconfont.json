@@ -1,0 +1,100 @@
+{
+  "id": "3573809",
+  "name": "华为响应式布局",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "145438",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "145491",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "363511",
+      "name": "新浪",
+      "font_class": "xinlang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "630092",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "1312041",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "2418243",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "4936959",
+      "name": "linkedin",
+      "font_class": "linkedin",
+      "unicode": "e87d",
+      "unicode_decimal": 59517
+    },
+    {
+      "icon_id": "7575026",
+      "name": "24gl-network",
+      "font_class": "24gl-network",
+      "unicode": "e99b",
+      "unicode_decimal": 59803
+    },
+    {
+      "icon_id": "7577284",
+      "name": "24gl-appsBig2",
+      "font_class": "24gl-appsBig2",
+      "unicode": "e9b7",
+      "unicode_decimal": 59831
+    },
+    {
+      "icon_id": "15825663",
+      "name": "菜篮子",
+      "font_class": "cailanzi",
+      "unicode": "e79a",
+      "unicode_decimal": 59290
+    },
+    {
+      "icon_id": "15989503",
+      "name": "头条样式",
+      "font_class": "toutiaoyangshi",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "19445924",
+      "name": "知乎",
+      "font_class": "zhihu-circle-fill",
+      "unicode": "ea8b",
+      "unicode_decimal": 60043
+    }
+  ]
+}
